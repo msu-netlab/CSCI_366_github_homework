@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-2+2=1
-=======
-2+2=3
->>>>>>> branch2
+#Conflict resolved
+2+2=4
+
