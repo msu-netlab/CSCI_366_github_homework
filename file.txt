@@ -1,0 +1,5 @@
+<<<<<<< .merge_file_Xd09fq
+2+2=4
+=======
+2+2=4
+>>>>>>> .merge_file_yBXJBu
