@@ -1,0 +1,3 @@
+#Conflict resolved
+2+2=4
+
