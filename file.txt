@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 First line
 Second line
+=======
+2+2=4
+>>>>>>> branch1
